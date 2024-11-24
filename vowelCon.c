@@ -81,3 +81,5 @@ int main()
     (input == 'a' || input == 'e' || input == 'i' || input == 'o' || input == 'u'|| input == 'A'|| input == 'E'|| input == 'I'|| input == 'O'|| input == 'U')?printf("Your entered character is a vowel\n"):printf("Your entered character is a consonant\n");
     return 0;
 }
+
+//And it can be checked by many more things
